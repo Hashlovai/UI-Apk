@@ -13,7 +13,7 @@ UI Tests Built In APK's For People Who Just Want To Test The UI
 
 * Go into the ui dir: `cd pangolin-desktop` Or `cd pangolin-mobile`
 
-* flutter build apk
+* Build The APK: `flutter build apk`
 
 ENJOY
 
