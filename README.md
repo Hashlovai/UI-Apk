@@ -1,7 +1,7 @@
 # UI-Apk
 UI Tests Built In APK's For People Who Just Want To Test The UI
 
-![Capybara UI Apk](https://github.com/dahlia-os/Icons/blob/master/UI-Screenshots/Pangolin-0.2.png)
+![Capybara UI Apk](https://github.com/dahlia-os/Icons/blob/master/UI-Screenshots/ScreenShot-Term.png)
 
 ### How To Build Souce For Yourself
 
