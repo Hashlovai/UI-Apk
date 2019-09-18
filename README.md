@@ -5,9 +5,9 @@ UI Tests Built In APK's For People Who Just Want To Test The UI
 
 ### How To Build Souce For Yourself
 
-* Download Flutter: `wget https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.2.1-stable.tar.xz`
+* Download Flutter: `wget https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.9.1+hotfix.2-stable.tar.xz`
 
-* Extract Flutter: `tar xf ~/flutter_linux_v1.2.1-stable.tar.xz`
+* Extract Flutter: `tar xf ~/flutter_linux_v1.9.1+hotfix.2-stable.tar.xz`
 
 * Export Flutter Commands So You Can Use Them: `export PATH="$PATH:`pwd`/flutter/bin"`
 
